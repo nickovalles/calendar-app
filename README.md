@@ -1,7 +1,6 @@
-# Work Day Scheduler Code
+# Calendar App!
 ## Created by Nicolas Ovalles
 
-## Calendar App!
 -----
 
 ## Purpose of Site
