@@ -116,7 +116,7 @@ function saveSchedule(hourString, val) {
 
     saveToLocalStorage(workHours);
 }
-// SAVE FEATURE START (debug later)
+// SAVE FEATURE END (debug later)
 
 
 
